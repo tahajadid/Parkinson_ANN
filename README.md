@@ -18,5 +18,20 @@ adjustments can lead to better symptomatic management and reduction in treatment
 such as motor fluctuations.
 
   *Parkinsons Disease Data Set :*
+  
   The dataset for the disease is retrieved from UCI repository
   http://archive.ics.uci.edu/ml/datasets/parkinsons 
+
+  *Tools and methods used :*
+  
+  _Anaconda_ 
+  _Python_ 
+  _Jupyter Notebook_
+  
+  *Libraries and modules :*
+  
+  _Pandas_
+  _Sklearn_
+  _keras_
+  _Matplotlib_
+  
