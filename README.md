@@ -43,6 +43,6 @@ such as motor fluctuations.
 
 # To know more information 
 
-about ANN and our final project of AI Module you can check our report (PDF format) 
+About ANN and our final project of AI Module you can check our report (PDF format) 
 
 _Report - Artificial Neural Networks.pdf_
