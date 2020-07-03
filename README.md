@@ -40,3 +40,6 @@ such as motor fluctuations.
   
   _Matplotlib_
   
+
+To know more information about ANN and our final project of AI Module
+You can check our report (PDF format) 
